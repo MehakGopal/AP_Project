@@ -1,3 +1,3 @@
-# AP_Project-Tank-Stars
+# Tank-Stars 
 
- A clone of the game TankStars in Java using LibGdx. 
+ A clone of the game TankStars in Java using LibGdx designed using various OOPs principles.
